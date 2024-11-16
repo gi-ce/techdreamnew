@@ -149,7 +149,7 @@ p {
 }
 
 body {
-    background-image: url(/Enlaces/assets/img/fondo.jpg);
+    background-image: url(Enlaces/assets/img/fondo.jpg);
     background-position: center;
     background-size: cover;
 }
